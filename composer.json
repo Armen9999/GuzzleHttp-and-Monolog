@@ -1,0 +1,13 @@
+{
+    "name": "hp/guzzle",
+    "authors": [
+        {
+            "name": "Armen Gabrielyan",
+            "email": "armengabrielyan16@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "~6.0",
+        "monolog/monolog": "^1.22"
+    }
+}
